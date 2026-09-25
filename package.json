@@ -1,0 +1,14 @@
+{
+  "name": "geofence-trajectory-events",
+  "version": "1.0.0",
+  "description": "地理围栏判定与轨迹进出事件",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {}
+}
